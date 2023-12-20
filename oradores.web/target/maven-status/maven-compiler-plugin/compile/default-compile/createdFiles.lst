@@ -1,0 +1,9 @@
+com\codoacodo2\connection\AdministradorDeConexiones.class
+com\codoacodo2\controllers\CrearOradorController.class
+com\codoacodo2\dao\OradorDAO.class
+com\codoacodo2\controllers\BuscarOradorController.class
+com\codoacodo2\controllers\ConsultarOradorController.class
+com\codoacodo2\controllers\EliminarOradorController.class
+com\codoacodo2\model\Orador.class
+com\codoacodo2\controllers\EditarOradorController.class
+com\codoacodo2\controllers\ListadoOradorController.class
